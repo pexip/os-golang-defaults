@@ -1,3 +1,9 @@
+golang-defaults (2:1.18~3~bpo11+1pexip2) pexip-bullseye; urgency=medium
+
+  * Bullseye rebuild for ARM64 inclusion
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Mon, 05 Sep 2022 10:31:49 +0100
+
 golang-defaults (2:1.18~3~bpo11+1pexip1) pexip-bullseye; urgency=medium
 
   * Prepare Pexip packaging
