@@ -8,7 +8,7 @@
 .ft R
 .fi
 ..
-.TH GO-TEST 1 "2022-03-15"
+.TH GO-TEST 1 "2022-08-02"
 .\" Please adjust this date whenever revising the manpage.
 .SH NAME
 go-test \- test packages
@@ -100,7 +100,7 @@ test caching explicitly is to use \-count=1. Tests that open files within
 the package\(cqs source root (usually $GOPATH) or that consult environment
 variables only match future runs in which the files and environment
 variables are unchanged. A cached test result is treated as executing
-in no time at all,so a successful package test result will be cached and
+in no time at all, so a successful package test result will be cached and
 reused regardless of \-timeout setting.
 .SH OPTIONS
 In addition to the build flags, the flags handled by \(oqgo test\(cq itself are:
