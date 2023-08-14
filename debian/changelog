@@ -1,3 +1,27 @@
+golang-defaults (2:1.20~2) unstable; urgency=medium
+
+  * Team upload
+  * Bump gccgo to 13: gccgo-13 only implements go1.18.
+
+ -- Shengjing Zhu <zhsj@debian.org>  Sun, 25 Jun 2023 23:39:28 +0800
+
+golang-defaults (2:1.20~1) unstable; urgency=medium
+
+  * Team upload
+  * Update Standards-Version to 4.6.2 (no changes)
+  * Update to Go 1.20 (src:golang-1.20)
+
+ -- Shengjing Zhu <zhsj@debian.org>  Sun, 11 Jun 2023 17:04:31 +0800
+
+golang-defaults (2:1.19~1) unstable; urgency=medium
+
+  * Update to Go 1.19 (src:golang-1.19)
+  * Update existing man pages to Go 1.19
+  * Add debian/README.source on keeping the man pages updated
+  * Bump Standards-Version to 4.6.1 (no change)
+
+ -- Anthony Fok <foka@debian.org>  Sat, 06 Aug 2022 13:09:49 -0600
+
 golang-defaults (2:1.18~3~bpo11+1pexip2) pexip-bullseye; urgency=medium
 
   * Bullseye rebuild for ARM64 inclusion
@@ -9,12 +33,6 @@ golang-defaults (2:1.18~3~bpo11+1pexip1) pexip-bullseye; urgency=medium
   * Prepare Pexip packaging
 
  -- Mark Hymers <mark.hymers@pexip.com>  Tue, 19 Jul 2022 13:02:23 +0100
-
-golang-defaults (2:1.18~3~bpo11+1) bullseye-backports; urgency=medium
-
-  * Rebuild for bullseye-backports.
-
- -- Anthony Fok <foka@debian.org>  Mon, 13 Jun 2022 06:59:56 -0600
 
 golang-defaults (2:1.18~3) unstable; urgency=medium
 
@@ -45,18 +63,6 @@ golang-defaults (2:1.18~1) unstable; urgency=medium
     as would be generated in the next dh-make-golang release after 0.6.0-1
 
  -- Anthony Fok <foka@debian.org>  Mon, 21 Mar 2022 00:03:54 -0600
-
-golang-defaults (2:1.17~1~bpo11+2) bullseye-backports; urgency=medium
-
-  * Rebuild for bullseye-backports.
-
- -- Pirate Praveen <praveen@debian.org>  Sat, 04 Dec 2021 17:07:51 +0530
-
-golang-defaults (2:1.17~1~bpo11+1) bullseye-backports-staging; urgency=medium
-
-  * Rebuild for bullseye-backports-staging.
-
- -- Pirate Praveen <praveen@debian.org>  Sat, 20 Nov 2021 14:12:22 +0530
 
 golang-defaults (2:1.17~1) unstable; urgency=medium
 
