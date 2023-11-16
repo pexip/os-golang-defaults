@@ -1,3 +1,9 @@
+golang-defaults (2:1.21~1pexip2) pexip-bookworm; urgency=medium
+
+  * Initial bookworm build
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Thu, 16 Nov 2023 10:00:40 +0000
+
 golang-defaults (2:1.21~1pexip1) pexip; urgency=medium
 
   * CVE update
