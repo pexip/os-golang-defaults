@@ -1,3 +1,17 @@
+golang-defaults (2:1.24~2) unstable; urgency=medium
+
+  * Team upload
+  * Upload to unstable
+
+ -- Shengjing Zhu <zhsj@debian.org>  Fri, 14 Feb 2025 15:37:23 +0800
+
+golang-defaults (2:1.24~1) experimental; urgency=medium
+
+  * Team upload
+  * Update to Go 1.24 (src:golang-1.24)
+
+ -- Shengjing Zhu <zhsj@debian.org>  Mon, 27 Jan 2025 03:10:52 +0800
+
 golang-defaults (2:1.23~2+pexip24u1) pexip; urgency=medium
 
   * New upstream release
